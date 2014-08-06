@@ -1,0 +1,24 @@
+﻿@model HandleErrorInfo
+@{
+    ViewBag.Title = "FileNotFound";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>File Not Found</title>
+</head>
+<body>
+    <h2>Sorry</h2>
+    <span>
+        The File @(((FileNotFoundException)Model.Exception).FileName)
+        was not found in our server.
+    </span>
+    
+    <div style="display: none">
+        @Model.Exception.StackTrace
+    </div>
+</body>
+</html>
+

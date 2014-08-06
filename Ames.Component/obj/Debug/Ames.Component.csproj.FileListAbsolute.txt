@@ -1,0 +1,5 @@
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\Ames.Component\obj\Debug\Ames.Component.csprojResolveAssemblyReference.cache
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\Ames.Component\bin\Debug\Ames.Component.dll
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\Ames.Component\bin\Debug\Ames.Component.pdb
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\Ames.Component\obj\Debug\Ames.Component.dll
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\Ames.Component\obj\Debug\Ames.Component.pdb

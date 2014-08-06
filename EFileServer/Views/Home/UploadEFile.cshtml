@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "UploadEFile";
+}
+
+<h2>Upload EFile</h2>
+
+@*@using (Html.BeginForm("UploadEFile", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{*@
+<a href="http://localhost:54017/api/efile/getefile">check Web API link</a>
+    <form name="form1" method="post" enctype="multipart/form-data" action="http://localhost:54017/api/efile/test">
+    <fieldset>
+        <legend>New EFile Post</legend>
+        <div>
+            <label for="Year">Year</label>
+            <input type="text" name="year" />
+        </div>
+        <div>
+            <label for="Month">Month</label>
+            <input type="text" name="month" />
+        </div>
+        <div>
+            <label for="Location">Location</label>
+            <input type="text" name="location" />
+        </div>
+        <div>
+            <label for="Brand">Brand</label>
+            <input type="text" name="brand" />
+        </div>
+        <div>
+            <label for="Department">Department</label>
+            <input type="text" name="department" />
+        </div>
+        <div>
+            <label for="Type">Type</label>
+            <input type="text" name="type" />
+        </div>
+        <div>
+            <label for="GenerateFrom">Generated From</label>
+            <input type="text" name="generateFrom" />
+        </div>
+        <div>
+            <label for="ExpiryDuration">Expiry Duration</label>
+            <input type="text" name="expiryDuration" />
+        </div>
+        <div>
+                <label for="FileName">Upload File Name</label>
+                <input type="file" name="media" />
+            </div>
+
+        <div>
+            <input type="submit" value="Submit" />
+        </div>
+    </fieldset>
+</form>
+    }
+
