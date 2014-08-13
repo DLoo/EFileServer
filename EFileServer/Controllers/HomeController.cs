@@ -15,7 +15,8 @@ namespace EFileServer.Controllers {
     public class HomeController : Controller {
         string AppRootPath = ConfigurationManager.AppSettings["AppRootPath"] ?? @"C:\EFileServerData";
         I_EFileRepository resp = new EFileRepository();
-       
+
+        [ProfileAction]
         public ActionResult Index() {
             return View();
         }
@@ -46,6 +47,7 @@ namespace EFileServer.Controllers {
 
 
         [HttpPost]
+        [ProfileAction]
         public ActionResult UploadEFile(int year, int month, string location, string brand, string department, string type, 
             string generateFrom, int expiryDuration, HttpPostedFileBase media) {
 

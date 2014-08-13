@@ -7,6 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using Ames.Entities;
+using Ames.Infrastructue;
 
 namespace EFileServer.Controllers
 {
@@ -15,12 +16,14 @@ namespace EFileServer.Controllers
         private EFAmesInfra db = new EFAmesInfra();
 
         // GET: EFileInfo
+        [ProfileAction]
         public ActionResult Index()
         {
             return View(db.EFileInfo.ToList());
         }
 
         // GET: EFileInfo/Details/5
+        [ProfileAction]
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -78,6 +81,7 @@ namespace EFileServer.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [ProfileAction]
         public ActionResult Edit([Bind(Include = "EFileID,CreatedDateTime,Year,Month,EFileName,Location,Brand,Department,Type,GeneratedFrom,ExpiryDate")] EFileInfo eFileInfo)
         {
             if (ModelState.IsValid)
@@ -107,6 +111,7 @@ namespace EFileServer.Controllers
         // POST: EFileInfo/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [ProfileAction]
         public ActionResult DeleteConfirmed(int id)
         {
             EFileInfo eFileInfo = db.EFileInfo.Find(id);

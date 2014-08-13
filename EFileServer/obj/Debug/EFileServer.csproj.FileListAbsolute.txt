@@ -39,3 +39,44 @@ C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer
 C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\System.Web.Http.WebHost.xml
 C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\Ames.Entities.dll
 C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\Ames.Entities.pdb
+D:\AMES_Git\EFileServer\EFileServer\bin\EFAmesInfra_Authenticate.mdf
+D:\AMES_Git\EFileServer\EFileServer\bin\EFileServer.dll.config
+D:\AMES_Git\EFileServer\EFileServer\bin\EFileServer.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\EFileServer.pdb
+D:\AMES_Git\EFileServer\EFileServer\bin\Ames.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\Ames.Entities.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\Antlr3.Runtime.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\EntityFramework.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\EntityFramework.SqlServer.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\Microsoft.Web.Infrastructure.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\Newtonsoft.Json.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Net.Http.Formatting.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Helpers.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Http.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Http.WebHost.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Mvc.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Optimization.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Razor.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.WebPages.Deployment.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.WebPages.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.WebPages.Razor.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\WebGrease.dll
+D:\AMES_Git\EFileServer\EFileServer\bin\Ames.Entities.pdb
+D:\AMES_Git\EFileServer\EFileServer\bin\Ames.pdb
+D:\AMES_Git\EFileServer\EFileServer\bin\EntityFramework.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\EntityFramework.SqlServer.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Net.Http.Formatting.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Http.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Http.WebHost.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Helpers.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Mvc.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Optimization.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.Razor.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.WebPages.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.WebPages.Deployment.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\System.Web.WebPages.Razor.xml
+D:\AMES_Git\EFileServer\EFileServer\bin\Antlr3.Runtime.pdb
+D:\AMES_Git\EFileServer\EFileServer\bin\Newtonsoft.Json.xml
+D:\AMES_Git\EFileServer\EFileServer\obj\Debug\EFileServer.csprojResolveAssemblyReference.cache
+D:\AMES_Git\EFileServer\EFileServer\obj\Debug\EFileServer.dll
+D:\AMES_Git\EFileServer\EFileServer\obj\Debug\EFileServer.pdb

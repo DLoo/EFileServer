@@ -31,3 +31,11 @@ C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer
 C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\Ames.pdb
 C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\EntityFramework.xml
 C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\EntityFramework.SqlServer.xml
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\Ames.Entities.dll
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\System.Net.Http.Formatting.dll
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\System.Web.Http.dll
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\System.Web.Http.WebHost.dll
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\Ames.Entities.pdb
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\System.Net.Http.Formatting.xml
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\System.Web.Http.xml
+C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\EFileServer\EFileServer\bin\System.Web.Http.WebHost.xml

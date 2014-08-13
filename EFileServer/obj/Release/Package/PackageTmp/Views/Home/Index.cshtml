@@ -1,9 +1,22 @@
-﻿@{
-    ViewBag.Title = "Home Page";
-}
+﻿<div class="jumbotron">
+    <h1>EFile Server is Started.</h1>
 
-<div>
-    <h2>Error in Request URL</h2>
-    <h3>Some required field(s) are empty</h3>
-    
 </div>
+<div>
+    <h3>Test Instructions:</h3>
+    <p><a href="../efileinfo/index">View EFile Information</a></p>
+    <p>
+        Download EFile by fileGuid = <span>
+            <input type="text" id="fileGuid" />
+            <input type="button" value="Download" onclick="downloadFunction()"  />
+        </span>
+    </p>
+    <p><a href="uploadefile">Upload EFile to Server</a></p>
+</div>
+<script>
+    function downloadFunction() {
+        alert(document.getElementById("fileGuid").value);
+        location.href = "getefile?fileguid=" + document.getElementById("fileGuid").value;
+    }
+</script>
+
